@@ -6,6 +6,10 @@ This Project aim of realize most of Anomaly Detection Algorithms in Java
 
 Algorithm Home Page: http://blog.csdn.net/u013709270/article/details/73749310
 
+Source Paper: <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; http://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; http://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/tkdd11.pdf
+
 Usage step:
 
 1. **Create an object of class IForest**
