@@ -8,13 +8,13 @@ Algorithm Home Page: http://blog.csdn.net/u013709270/article/details/73749310
 
 Usage step:
 
-1. Create an object of class IForest
+1. **Create an object of class IForest**
 
 ```java
       IForest iForest = new IForest();
 ```
 
-2. Get samples and train
+2. **Get samples and train**
 
 ```java
       double[][] samples = new double[1000][2];
@@ -24,13 +24,13 @@ Usage step:
       
       int[] ans = iForest.train(samples, 100);
 ```
-We have two declaration of function train, the implementation of them are same to each other.
+&nbsp;&nbsp;&nbsp;&nbsp; We have two declaration of function train, the implementation of them are same to each other.
 The only difference of them is one have default parameter. As the results of function train ans,
 if ans[i]==0 means it's an Anomaly(or Isolation) Point, else a Normal Point.
 
-3. Predict a new sample
+3. **Predict a new sample**
 
-If a sample does not in samples, we can use function predict to judge it a Normal point or not.
+&nbsp;&nbsp;&nbsp;&nbsp; If a sample does not in samples, we can use function predict to judge it a Normal point or not.
 
 ```java
      double[] sample = ...
