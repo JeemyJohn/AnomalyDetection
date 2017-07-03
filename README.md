@@ -1,9 +1,11 @@
 # AnomalyDetection
 
-This Project aim of realize most of Anomaly Detection Algorithms in Java
+This Project aim of realize most of Anomaly Detection Algorithms in Java.
+If you want to contribute source code, please write Email to jeemy145@outlook.com, or you can add my WeChat Number: <font color="red">JeemyJohn</font>
 
-# 1. Isolation Forest Algorithm in package iforest
+# 1. Isolation Forest
 
+This algorithm is realized in package iforest.<br/> 
 Algorithm Home Page: http://blog.csdn.net/u013709270/article/details/73749310
 
 Source Paper: <br/>
