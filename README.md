@@ -6,7 +6,7 @@ If you want to contribute source code, please write Email to jeemy145@outlook.co
 # 1. Isolation Forest
 
 This algorithm is realized in package iforest.<br/> 
-Algorithm Home Page: http://blog.csdn.net/u013709270/article/details/73749310
+Algorithm Home Page: http://blog.csdn.net/u013709270/article/details/73436588
 
 Source Paper: <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; http://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf <br/>
