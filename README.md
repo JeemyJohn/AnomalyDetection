@@ -1,6 +1,6 @@
 # AnomalyDetection
 
-This Project aim of realize most of Anomaly Detection Algorithms in Java.
+This Project aim of implements most of Anomaly Detection Algorithms in Java.
 If you want to contribute source code, please write Email to jeemy145@outlook.com, or you can add my WeChat Number: **JeemyJohn**
 
 # 1. Isolation Forest
