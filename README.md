@@ -45,7 +45,10 @@ if ans[i]==0 means it's an Anomaly(or Isolation) Point, else a Normal Point.
 ```
 
 
+----------
+对机器学习，人工智能感兴趣的小伙伴可以加我微信：JeemyJohn，我拉你进我的机器学习群（群里很多高手哦！），或者扫描二维码！当然你也可以关注我的公众号，点击链接：[燕哥带你学算法公众号团队简介](http://mp.weixin.qq.com/s/ny4LvsGsVk1Em30UwZsjWw)
 
+![这里写图片描述](http://img.blog.csdn.net/20170818214456712?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdTAxMzcwOTI3MA==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 
 
